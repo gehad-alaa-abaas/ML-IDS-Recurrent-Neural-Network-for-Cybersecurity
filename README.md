@@ -74,4 +74,10 @@ python install.py
 
 This will ensure your environment is set up with all necessary libraries for training and evaluating the RNN-based IDS model.
 
----
+## Dataset Download
+
+The dataset required for this project (`combinedDataSet.csv`) is too large to be stored in the repository. You can download it from the following Google Drive link:
+
+[Download combinedDataSet.csv](https://drive.google.com/file/d/13KiItv0_uahzuKAqTxNXbOU4760-e0a3/view?usp=drivesdk)
+
+After downloading, place the file in the project directory as specified in the instructions above.
